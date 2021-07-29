@@ -1,0 +1,6 @@
+{
+	"appId": "com.hyperland.app",
+	"appName": "mobile-example",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
